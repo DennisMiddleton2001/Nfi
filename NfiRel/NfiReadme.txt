@@ -1,3 +1,59 @@
+                                                                                                    
+                                                                                                    
+             @@@@@@@     @                                                                          
+              @@    @@@@ @@                                                                         
+                @@      @@@@                                                                        
+                  @@        @@                 You need help!!!                                                   
+                   @@        @@@                                                                   
+                    @@         @@                                                                   
+                    @@@@@        @@                                                                 
+                     @@ @@@@@     @@                                                                
+                      @@ @@  @@    @@                                                               
+                       @@ @@   @@   @@                                                              
+                       @@@ @    @@   @@                            @@                               
+                        @@ @@    @@  @@                         @@@@@@@@                            
+                         @@ @     @   @@                      @@@ @     @@@                         
+                         @@ @      @   @                    @@ @@@@       @@@                       
+                         @@ @      @   @@                 @@  @@ @@         @@                      
+                         @@ @       @   @                @@  @   @@          @                      
+                         @@ @        @  @               @   @    @@          @                      
+                         @@ @         @  @            @@   @@     @@         @                      
+                         @@ @             @   @@     @@   @@      @@         @@                     
+                         @@ @@    @@@@@@@@@    @@   @@    @       @@          @                     
+                          @  @@@@@@@@@@@  @@@@@ @@@@@    @ @       @@         @                     
+                           @            @@@@    @@ @@    @@@      @@@@        @                     
+                            @   @   @@@      @ @@   @@  @  @     @  @@        @@@@@@@@              
+                              @   @                         @@   @   @@      @@@      @             
+                             @@@@ @                    @@     @@ @    @@    @@  @     @@            
+                           @@      @@                @@         @@     @@       @     @@            
+                          @  @@@@   @@              @@           @@    @@@       @   @@             
+                         @  @ @@@@    @   @ @      @    @@@@@@@   @@    @@@@@    @@@@               
+                        @@    @@@@@        @           @@@@@@  @   @@     @@@@   @@                 
+                        @    @@@@@@@       @          @@@@@@@@   @ @@      @@@@  @ @@               
+                       @@    @@@@@@@@    @ @ @       @@@@@@@@@      @       @  @@ @                 
+                    @@@     @ @@@@@@@    @ @@@      @@@@@@@@@@   @@@@@@@         @@                 
+                  @@   @@@@  @@@@@@@@@@@@@  @@@   @@@@@@@@@@@@@ @@     @@                           
+                  @  @@@@     @@@@@@@         @@@@@@@@@@@@@@@@          @@                          
+                  @ @@ @@       @@@@ @@            @@@@@@@@@@   @@@@    @@@                         
+                  @@     @@                           @@@@@        @@@  @@@                         
+                   @      @@          @@@@@@@@@@   @             @@@ @  @@                          
+                   @@      @@        @@@@@@@@@@                @@@     @@@                          
+                    @@     @@@         @@@@@@                @@@      @@@                           
+                     @@     @@@          @@                @@@@      @@@                            
+                       @@   @@@@@                        @@@@@      @@@                             
+                        @@   @ @@@@@      @            @@@@       @@@                               
+                         @@    @  @@@@@@@@@@@@@@@@@@@@@@@ @      @@@                                
+                           @@   @@ @             @   @ @@       @@                                  
+                            @@     @@@    @     @@  @@        @@                                    
+                              @@     @@@@ @     @           @@@                                     
+                                @@      @@@@@@@@@         @@                                        
+                                  @@@                  @@@                                          
+                                    @@@          @@@@@@                                             
+                                       @@@@@@@@@@                                                   
+                                                                                                    
+                                                                                                    
+
+
 =====================================================================================================================
 NTFS VOLUME COMMANDS
 =====================================================================================================================
@@ -10,10 +66,12 @@ EXAMPLES....  BTW, volme names should always be in the form:  "\\.\X:", and numb
 	Nfi.exe -attrh \\.\C: 5 a0 $I30 - Dumps the root folder index allocation as hex.
 	Nfi.exe -attrh \\.\C: 5 80 ""   - Dumps the $MFT as hex.
 	Nfi.exe -attr \\.\C: 6 80 ""    - Dumps the volume bitmap parsed.
-	Nfi.exe -attr \\.\C: 9 80 $SDS  - Dumps the security descriptors parsed.
+	Nfi.exe -a \\.\C: 9 80 $SDS  - Dumps the security descriptors parsed.
 
 Some of these commands take a LONG TIME!!!! If you need to break out with CTRL+C, you can.  The partial results will 
-be in the current folder as ".\Tmp.txt".  For references to NTFS internals, refer to resources on the web.
+be in the current folder as ".\Tmp.txt".  For references to NTFS internals, refer to resources on the web.  I apoligize
+for the verbose debug output.  I spent a lot of time working through some issues with that, but what do you expect
+for free?  
 
 =====================================================================================================================
 NTFS USAGE REFERENCE
