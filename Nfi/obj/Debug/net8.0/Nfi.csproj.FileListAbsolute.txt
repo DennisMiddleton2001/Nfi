@@ -1,0 +1,14 @@
+C:\Users\harve\GitHubDepot\NFI\Nfi\bin\Debug\net8.0\Nfi.exe
+C:\Users\harve\GitHubDepot\NFI\Nfi\bin\Debug\net8.0\Nfi.deps.json
+C:\Users\harve\GitHubDepot\NFI\Nfi\bin\Debug\net8.0\Nfi.runtimeconfig.json
+C:\Users\harve\GitHubDepot\NFI\Nfi\bin\Debug\net8.0\Nfi.dll
+C:\Users\harve\GitHubDepot\NFI\Nfi\bin\Debug\net8.0\Nfi.pdb
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.AssemblyInfoInputs.cache
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.AssemblyInfo.cs
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.csproj.CoreCompileInputs.cache
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.dll
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\refint\Nfi.dll
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.pdb
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.genruntimeconfig.cache
+C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\ref\Nfi.dll
