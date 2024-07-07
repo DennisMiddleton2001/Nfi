@@ -22,7 +22,6 @@ namespace Nfi
             foreach (var line in lines)
             {
                 Console.WriteLine(line);
-
             }
         }
 

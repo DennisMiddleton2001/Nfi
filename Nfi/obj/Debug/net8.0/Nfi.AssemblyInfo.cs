@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nfi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16632072c35fac1710163cfb5b7b0847abb360d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nfi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nfi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

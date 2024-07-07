@@ -12,3 +12,4 @@ C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\refint\Nfi.dll
 C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.pdb
 C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\Nfi.genruntimeconfig.cache
 C:\Users\harve\GitHubDepot\NFI\Nfi\obj\Debug\net8.0\ref\Nfi.dll
+C:\Users\harve\GitHubDepot\Nfi\Nfi\obj\Debug\net8.0\Nfi.sourcelink.json
